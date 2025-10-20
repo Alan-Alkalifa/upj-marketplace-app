@@ -11,7 +11,7 @@ export const Footer = () => {
           alt="Logo"
           width={64}
           height={64}
-          className="inline-block mr-2"
+          className="inline-block"
         />
     </footer>
   );
